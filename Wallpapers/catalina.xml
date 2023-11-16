@@ -1,11 +1,7 @@
 <background>
   <starttime>
-    <year>2019</year>
-    <month>10</month>
-    <day>10</day>
-    <hour>22</hour>
-    <minute>00</minute>
-    <second>00</second>
+    <year>System.getDate()</year>
+    <hour>System.getTime()</hour)
   </starttime>
   <!-- 22:00 -->
   <static>
